@@ -9,6 +9,6 @@ A nice working in progress hackintosh for the Acer F5-573g-75A3
 - Working witth accelerated Graphics (nvidia optimus sucks)
 - I7 7500u working 
 - Battery Working (Hot)
-- Audio Bluetooth (Need Reboot from windows with bluetooth connect to an device for work )
+- Audio Bluetooth (Need Reboot from windows with bluetooth connected on headset for work )
 - None of above items with guarantee but working
 - Gestures working with trackpad at Control Panel
