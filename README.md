@@ -1,4 +1,9 @@
 # HACKINTOSH-ACER-F5-573G-75A3
+
+## Everthing above is deprecated please go to [Hackintosh Brasil](https://hackintoshbrasil.com/forum/viewtopic.php?t=140) for updated content.
+
+
+
 A nice working in progress hackintosh for the Acer F5-573g-75A3
 
 CURRENTLY WORKING FOR EL CAPITAN VERSION
